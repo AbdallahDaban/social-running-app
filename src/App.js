@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  useState,
-  useEffect,
-  useCallback,
-  useRef,
-  createContext,
-  useContext,
-} from "react";
+import { useState, useEffect } from "react";
 
 // ═══════════════════════════════════════════════════════════════════════════
 // RUNTOGETHER — Phase 1 with Firebase Backend
